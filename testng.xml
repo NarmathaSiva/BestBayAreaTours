@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Best Bay Area Tour Suite">
+	<test name="Yosemite Page Test">
+		<classes>
+			<class name="org.demo.YosemiteTestPage" />			
+		</classes>
+	</test> 
+	
+	<test name="Russian Valley Page Test">
+		<classes>
+			<class name="org.demo.RussianValleyTestPage" />
+		</classes>
+	</test>
+	
+	<test name="Russian Weekend Page Test">
+		<classes>			
+			<class name="org.demo.RussWeekEndTestPage" />			
+		</classes>
+	</test>
+	
+	<test name="Sonoma Page Test">
+		<classes>			
+			<class name="org.demo.SonomaTestPage" />			
+		</classes>
+	</test>
+	
+	<test name="Sausalito Page Test">
+		<classes>			
+			<class name="org.demo.SausalitoTestPage" />			
+		</classes>
+	</test>
+	
+	
+	<!-- Test -->
+</suite> <!-- Suite -->

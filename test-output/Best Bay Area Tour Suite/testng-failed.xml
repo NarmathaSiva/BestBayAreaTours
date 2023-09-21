@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Best Bay Area Tour Suite]">
+  <test thread-count="5" name="Best Bay Area Tour Test(failed)">
+    <classes>
+      <class name="org.demo.YosemiteTestPage">
+        <methods>
+          <include name="tc10"/>
+          <include name="startTime"/>
+          <include name="tc9"/>
+          <include name="launchUrl"/>
+          <include name="close"/>
+          <include name="endTime"/>
+        </methods>
+      </class> <!-- org.demo.YosemiteTestPage -->
+      <class name="org.demo.RussianValleyTestPage">
+        <methods>
+          <include name="endTime"/>
+          <include name="startTime"/>
+          <include name="launchUrl"/>
+          <include name="tearDown"/>
+          <include name="close"/>
+          <include name="tc2"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- org.demo.RussianValleyTestPage -->
+      <class name="org.demo.SonomaTestPage">
+        <methods>
+          <include name="launchUrl"/>
+          <include name="close"/>
+          <include name="startTime"/>
+          <include name="tc8"/>
+          <include name="endTime"/>
+        </methods>
+      </class> <!-- org.demo.SonomaTestPage -->
+    </classes>
+  </test> <!-- Best Bay Area Tour Test(failed) -->
+</suite> <!-- Failed suite [Best Bay Area Tour Suite] -->

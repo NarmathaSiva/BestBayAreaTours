@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Best Bay Area Tour Suite" duration-ms="549240" started-at="2023-09-08T08:12:50Z" finished-at="2023-09-08T08:21:59Z">
+    <groups>
+    </groups>
+    <test name="Yosemite Page Test" duration-ms="60059" started-at="2023-09-08T08:12:50Z" finished-at="2023-09-08T08:13:50Z">
+      <class name="org.demo.YosemiteTestPage">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.demo.YosemiteTestPage@5ec0a365]" name="launchUrl" is-config="true" duration-ms="12208" started-at="2023-09-08T08:12:50Z" finished-at="2023-09-08T08:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.YosemiteTestPage@5ec0a365]" name="startTime" is-config="true" duration-ms="2" started-at="2023-09-08T08:13:02Z" finished-at="2023-09-08T08:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc9()[pri:0, instance:org.demo.YosemiteTestPage@5ec0a365]" name="tc9" duration-ms="47759" started-at="2023-09-08T08:13:02Z" finished-at="2023-09-08T08:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc9 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.YosemiteTestPage@5ec0a365]" name="endTime" is-config="true" duration-ms="7" started-at="2023-09-08T08:13:50Z" finished-at="2023-09-08T08:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.demo.YosemiteTestPage@5ec0a365]" name="close" is-config="true" duration-ms="6" started-at="2023-09-08T08:13:50Z" finished-at="2023-09-08T08:13:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.demo.YosemiteTestPage -->
+    </test> <!-- Yosemite Page Test -->
+    <test name="Russian Valley Page Test" duration-ms="148093" started-at="2023-09-08T08:13:50Z" finished-at="2023-09-08T08:16:18Z">
+      <class name="org.demo.RussianValleyTestPage">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="launchUrl" is-config="true" duration-ms="19530" started-at="2023-09-08T08:13:50Z" finished-at="2023-09-08T08:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="startTime" is-config="true" duration-ms="6" started-at="2023-09-08T08:14:10Z" finished-at="2023-09-08T08:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="tc1" duration-ms="102820" started-at="2023-09-08T08:14:10Z" finished-at="2023-09-08T08:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="endTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:15:52Z" finished-at="2023-09-08T08:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="startTime" is-config="true" duration-ms="1" started-at="2023-09-08T08:15:52Z" finished-at="2023-09-08T08:15:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="tc2" duration-ms="25352" started-at="2023-09-08T08:15:52Z" finished-at="2023-09-08T08:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="endTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:16:18Z" finished-at="2023-09-08T08:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="close" is-config="true" duration-ms="374" started-at="2023-09-08T08:16:18Z" finished-at="2023-09-08T08:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.demo.RussianValleyTestPage -->
+    </test> <!-- Russian Valley Page Test -->
+    <test name="Russian Weekend Page Test" duration-ms="138963" started-at="2023-09-08T08:16:18Z" finished-at="2023-09-08T08:18:37Z">
+      <class name="org.demo.RussWeekEndTestPage">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="launchUrl" is-config="true" duration-ms="8236" started-at="2023-09-08T08:16:18Z" finished-at="2023-09-08T08:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="startTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:16:26Z" finished-at="2023-09-08T08:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="tc3" duration-ms="105506" started-at="2023-09-08T08:16:26Z" finished-at="2023-09-08T08:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="endTime" is-config="true" duration-ms="1" started-at="2023-09-08T08:18:12Z" finished-at="2023-09-08T08:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="startTime" is-config="true" duration-ms="2" started-at="2023-09-08T08:18:12Z" finished-at="2023-09-08T08:18:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="tc4" duration-ms="24811" started-at="2023-09-08T08:18:12Z" finished-at="2023-09-08T08:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="endTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:18:37Z" finished-at="2023-09-08T08:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.demo.RussWeekEndTestPage@5b87ed94]" name="close" is-config="true" duration-ms="397" started-at="2023-09-08T08:18:37Z" finished-at="2023-09-08T08:18:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.demo.RussWeekEndTestPage -->
+    </test> <!-- Russian Weekend Page Test -->
+    <test name="Sonoma Page Test" duration-ms="64596" started-at="2023-09-08T08:18:37Z" finished-at="2023-09-08T08:19:42Z">
+      <class name="org.demo.SonomaTestPage">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="launchUrl" is-config="true" duration-ms="12301" started-at="2023-09-08T08:18:37Z" finished-at="2023-09-08T08:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="startTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:18:49Z" finished-at="2023-09-08T08:18:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc7()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="tc7" duration-ms="26941" started-at="2023-09-08T08:18:49Z" finished-at="2023-09-08T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="endTime" is-config="true" duration-ms="1" started-at="2023-09-08T08:19:16Z" finished-at="2023-09-08T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="startTime" is-config="true" duration-ms="2" started-at="2023-09-08T08:19:16Z" finished-at="2023-09-08T08:19:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc8()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="tc8" duration-ms="24883" started-at="2023-09-08T08:19:16Z" finished-at="2023-09-08T08:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc8 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="close" is-config="true" duration-ms="447" started-at="2023-09-08T08:19:41Z" finished-at="2023-09-08T08:19:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.SonomaTestPage@43814d18]" name="endTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:19:41Z" finished-at="2023-09-08T08:19:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+      </class> <!-- org.demo.SonomaTestPage -->
+    </test> <!-- Sonoma Page Test -->
+    <test name="Sausalito Page Test" duration-ms="137410" started-at="2023-09-08T08:19:42Z" finished-at="2023-09-08T08:21:59Z">
+      <class name="org.demo.RussianValleyTestPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="setUp" is-config="true" duration-ms="20" started-at="2023-09-08T08:12:50Z" finished-at="2023-09-08T08:12:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.demo.RussianValleyTestPage@67b92f0a]" name="tearDown" is-config="true" duration-ms="1" started-at="2023-09-08T08:21:59Z" finished-at="2023-09-08T08:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.demo.RussianValleyTestPage -->
+      <class name="org.demo.SausalitoTestPage">
+        <test-method status="PASS" signature="launchUrl()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="launchUrl" is-config="true" duration-ms="11904" started-at="2023-09-08T08:19:42Z" finished-at="2023-09-08T08:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="tc5" duration-ms="101247" started-at="2023-09-08T08:19:54Z" finished-at="2023-09-08T08:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="startTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:19:54Z" finished-at="2023-09-08T08:19:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="endTime" is-config="true" duration-ms="1" started-at="2023-09-08T08:21:35Z" finished-at="2023-09-08T08:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="startTime()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="startTime" is-config="true" duration-ms="0" started-at="2023-09-08T08:21:35Z" finished-at="2023-09-08T08:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTime -->
+        <test-method status="PASS" signature="tc6()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="tc6" duration-ms="23931" started-at="2023-09-08T08:21:35Z" finished-at="2023-09-08T08:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method status="PASS" signature="endTime()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="endTime" is-config="true" duration-ms="4" started-at="2023-09-08T08:21:59Z" finished-at="2023-09-08T08:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTime -->
+        <test-method status="PASS" signature="close()[pri:0, instance:org.demo.SausalitoTestPage@551aa95a]" name="close" is-config="true" duration-ms="311" started-at="2023-09-08T08:21:59Z" finished-at="2023-09-08T08:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- org.demo.SausalitoTestPage -->
+    </test> <!-- Sausalito Page Test -->
+  </suite> <!-- Best Bay Area Tour Suite -->
+</testng-results>
